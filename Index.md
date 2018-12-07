@@ -2,12 +2,12 @@
 
 To begin we need to establish what sound is.
 
-The most important aspect of sound is that it is a vibration and that it has to travle through a medium (be it water, air, etc) in order to be perceived. The medium is also a crucial part in the perception of sound. Without that medium, you wouldn't ever be able to process the sound. Hence why outer space is silent. There is no medium for the vibrtion to travel through.
+The most important aspect of sound is that it is a vibration and that it has to travle through a medium (be it water, air, etc) in order to be perceived. The medium is also a crucial part in the perception of sound. Without that medium, you wouldn't ever be able to process the sound. Hence why outer space is silent. There is no medium for the vibration to travel through.
 
 Sound is measured in Waves
 
 Waves are measured by:
-* [Amplitude](https://en.wikipedia.org/wiki/Amplitude), described in Decibals (dB)
+* [Amplitude](https://en.wikipedia.org/wiki/Amplitude), described in Decibels (dB)
 * [Frequency](https://en.wikipedia.org/wiki/Frequency), described in Hertz
 
 ```The higher the frequency, the faster the particles are vibrating back and forth. And the higher the amplitude, the more energy the sound wave is carrying.```
@@ -39,7 +39,7 @@ Thirdly sound affects us cognitively. How well you work is very dependent on the
 
 # Behaviorally
 
-The final way sound affects us is behaviourally. We will tend to move away from unpleasant sound if we can and even gravitate towards pleasant sounds. Sound can cause stress us and make us behave negatively. It makes us less sociable, less helpful and less approachable if we’re in a noisy setting.
+The final way sound affects us is behaviourally. We will tend to move away from unpleasant sound if we can and even gravitate towards pleasant sounds. Sound can cause stress in us and make us behave negatively. It makes us less sociable, less helpful and less approachable if we’re in a noisy setting.
 
 Information about the 4 types above from [here](https://www.juliantreasure.com/blog/4-ways-sound-affects/)
 
@@ -55,7 +55,7 @@ That’s sonic branding in action.
 
 The power of music and sound transcends language, culture and all things visual, which makes sonic branding a huge part of the promotional game for many companies. For example, anyone anywhere in the world can hear the simple tune “I’m Lovin’ It” and instantly think of McDonald’s (in fact, Justin Timberlake wrote a track around the original five-note jingle). The process of “distilling a multimillion dollar brand into a few seconds of sound” can be long and challenging, but it pays off–sonic branding signatures can be more recognizable than company logos or spokespeople.
 
-Both sonic branding and audio branding play into a new riseing force in branding, engagement marketing. Compnaies want consumers to feel that they are a part of the brand, and not just experiencing one.
+Both sonic branding and audio branding play into a new rising force in branding, engagement marketing. Compnaies want consumers to feel that they are a part of the brand, and not just experiencing one.
 
 [Engagement marketing](https://en.wikipedia.org/wiki/Engagement_marketing), sometimes called "Guerilla Marketing" "experiential marketing", "event marketing", "on-ground marketing", "live marketing", "participation marketing", or "special events" is a marketing strategy that directly engages consumers and invites and encourages them to participate in the evolution of a brand or a brand experience. Rather than looking at consumers as passive receivers of messages, engagement marketers believe that consumers should be actively involved in the production and co-creation of marketing programs, developing a relationship with the brand.
 
@@ -74,3 +74,4 @@ Watch these:
 
 [Neuroscientist talks music's effects on the brain](https://www.youtube.com/watch?v=W6GI2vpCrbM) (2:56)
 
+[To the README](README.md)
