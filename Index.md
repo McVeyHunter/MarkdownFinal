@@ -5,6 +5,7 @@ To begin we need to establish what sound is.
 The most important aspect of sound is that it is a vibration and that it has to travle through a medium (be it water, air, etc) in order to be perceived. The medium is also a crucial part in the perception of sound. Without that medium, you wouldn't ever be able to process the sound. Hence why outer space is silent. There is no medium for the vibrtion to travel through.
 
 Sound is measured in Waves
+
 Waves are measured by:
 * Amplitude, described in Decibals (dB)
 * Frequency, described in Hertz
@@ -15,4 +16,11 @@ Waves are measured by:
 
 Now that we have a basis for what sound is, we can start looking into how humans perceive sound.
 Here is an excellent video describing what we'll be looking at:
-[The 4 ways sound affects us](https://www.ted.com/talks/julian_treasure_the_4_ways_sound_affects_us/up-next?language=en)
+[The 4 ways sound affects us](https://www.ted.com/talks/julian_treasure_the_4_ways_sound_affects_us/up-next?language=en) (4:59)
+
+As stated in the video, there are 4 major ways that sound effects us.
+
+1. [Physiological](https://en.wikipedia.org/wiki/Physiology)
+2. [Psychological](https://en.wikipedia.org/wiki/Psychology)
+3. [Cognitive](https://en.wikipedia.org/wiki/Cognition)
+4. [Behavioral](https://en.wikipedia.org/wiki/Behavior)
