@@ -49,7 +49,13 @@ Now we're starting to get somewhere with how impactful sound actually is on us. 
 
 [Audio Branding](https://audio-branding-academy.org/knowledge/what-is-audio-branding/) describes the process of brand development and brand management by use of audible elements within the framework of brand communication. It is part of multi-sensory brand communication and holistic brand design. Audio Branding aims at building solidly a brand sound that represents the identity and values of a brand in a distinctive manner. The audio logo, branded functional sounds, brand music or the brand voice are characteristic elements of Audio Branding.
 
-Almost every major company in the world uses audio branding. Which means that when you're ar work, your experiencing sounds, while driving with the radio on, or even off, your being affected by sounds, when you're wathcing tv, youtube, netflix, or any other type of media, your also being affected by sounds.
+[“Sonic branding”](https://www.adweek.com/digital/what-is-sonic-branding/) sounds like a complex concept, and it is a relatively unexplored aspect of the PR/marketing world–but it surrounds us every day. Think about sounds or jingles that you associate with brands. Here is an [example](https://www.youtube.com/watch?v=QymLzVtbsBo) of one being made (1:53). This is levels of thought that go into these things that are all around us
+
+That’s sonic branding in action.
+
+The power of music and sound transcends language, culture and all things visual, which makes sonic branding a huge part of the promotional game for many companies. For example, anyone anywhere in the world can hear the simple tune “I’m Lovin’ It” and instantly think of McDonald’s (in fact, Justin Timberlake wrote a track around the original five-note jingle). The process of “distilling a multimillion dollar brand into a few seconds of sound” can be long and challenging, but it pays off–sonic branding signatures can be more recognizable than company logos or spokespeople.
+
+Almost every major company in the world uses audio branding and sonic branding. Which means that when you're ar work, your experiencing sounds, while driving with the radio on, or even off, your being affected by sounds, when you're wathcing tv, youtube, netflix, or any other type of media, your also being affected by sounds.
 
 Watch these:
 [How music effects your brains](https://www.youtube.com/watch?v=JpUVMpX62nw) (2:31)
