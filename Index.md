@@ -49,11 +49,21 @@ Now we're starting to get somewhere with how impactful sound actually is on us. 
 
 [Audio Branding](https://audio-branding-academy.org/knowledge/what-is-audio-branding/) describes the process of brand development and brand management by use of audible elements within the framework of brand communication. It is part of multi-sensory brand communication and holistic brand design. Audio Branding aims at building solidly a brand sound that represents the identity and values of a brand in a distinctive manner. The audio logo, branded functional sounds, brand music or the brand voice are characteristic elements of Audio Branding.
 
-[“Sonic branding”](https://www.adweek.com/digital/what-is-sonic-branding/) sounds like a complex concept, and it is a relatively unexplored aspect of the PR/marketing world–but it surrounds us every day. Think about sounds or jingles that you associate with brands. Here is an [example](https://www.youtube.com/watch?v=QymLzVtbsBo) of one being made (1:53). This is levels of thought that go into these things that are all around us
+[“Sonic branding”](https://www.adweek.com/digital/what-is-sonic-branding/) sounds like a complex concept, and it is a relatively unexplored aspect of the PR/marketing world–but it surrounds us every day. Think about sounds or jingles that you associate with brands. Here is an [example](https://www.youtube.com/watch?v=QymLzVtbsBo) of one being made (1:53). This is levels of thought that go into these things that are all around us.
 
 That’s sonic branding in action.
 
 The power of music and sound transcends language, culture and all things visual, which makes sonic branding a huge part of the promotional game for many companies. For example, anyone anywhere in the world can hear the simple tune “I’m Lovin’ It” and instantly think of McDonald’s (in fact, Justin Timberlake wrote a track around the original five-note jingle). The process of “distilling a multimillion dollar brand into a few seconds of sound” can be long and challenging, but it pays off–sonic branding signatures can be more recognizable than company logos or spokespeople.
+
+[Engagement marketing](https://en.wikipedia.org/wiki/Engagement_marketing), sometimes called "Guerilla Marketing" "experiential marketing", "event marketing", "on-ground marketing", "live marketing", "participation marketing", or "special events" is a marketing strategy that directly engages consumers and invites and encourages them to participate in the evolution of a brand or a brand experience. Rather than looking at consumers as passive receivers of messages, engagement marketers believe that consumers should be actively involved in the production and co-creation of marketing programs, developing a relationship with the brand.
+
+### One of the driving forces is information technology
+
+Nowadays business is increasingly driven by information technology. The infonnation revolution will not mean merely an improvement in speed, as suggested by the original metaphor of the "information superhighway." It will mean a transfonnation in media - from print to voice, from sight to sound. It is Quite conceivable that, within a few years, consumers will be working with considerably smaller-and cheaper- computing devices that will integrate mobile phones, television, voice-operated computer with access to anyone and anything-real or virtual - anywhere in the world. Futurists like Dertouzos (1997) predict that within a few years we willsee products like the "bodynet," a web of integrated devices - functioning as cellphone, computer, television, camera, etc. - that will be confined to an invisible envelope around our bodies. This device-or a similar one - will allow people and companies to connect and to share an experiential universe with one another at any time.
+
+Information above from [here](https://s3.amazonaws.com/academia.edu.documents/49696552/Theme_2__article_2.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1544226763&Signature=NHcbVn46rae%2FbPw3Bf0kOk8dIZY%3D&response-content-disposition=inline%3B%20filename%3DJournal_of_Marketing_Management_Experien.pdf)
+
+---
 
 Almost every major company in the world uses audio branding and sonic branding. Which means that when you're ar work, your experiencing sounds, while driving with the radio on, or even off, your being affected by sounds, when you're wathcing tv, youtube, netflix, or any other type of media, your also being affected by sounds.
 
