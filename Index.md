@@ -27,11 +27,11 @@ As stated in the video, there are 4 major ways that sound effects us.
 
 # Physiologically
 
-The first is physiologically. Sound affects our bodies. Your body is 70% water. Sound travels well in water, so we’re very good conductors of sound. It’s not surprising that sound has a powerful effect on us. Hearing is your primary warning sense, just like every animal on the planet. Do you know there are no deaf vertebrates? There are plenty of vertebrates who don’t see very well at all or not at all, but the hearing is a universal sense, as Seth Horowitz calls it. Incidentally I interview Seth in How to be Heard, and there’s an audio version of that which is available on the website too for those who bought the book.
+The first is physiologically. Sound affects our bodies. Your body is 70% water. Sound travels well in water, so we’re very good conductors of sound. It’s not surprising that sound has a powerful effect on us. Hearing is your primary warning sense, just like every animal on the planet. Do you know there are no deaf vertebrates? There are plenty of vertebrates who don’t see very well at all or not at all, but the hearing is a universal sense, as Seth Horowitz calls it.
 
 # Psychologically
 
-The second way sound affects us is psychologically. It changes our emotions and our moods. Music will do that, of course. I’m sure you can think of a song that will make you happy. Maybe you’re thinking of it right now as I speak. I’m thinking of one of my favourite songs, which is Riverman by Nick Drake. It always makes me feel calm and happy.
+The second way sound affects us is psychologically. It changes our emotions and our moods. Music will do that, of course. I’m sure you can think of a song that will make you happy.
 
 # Cognitively
 
