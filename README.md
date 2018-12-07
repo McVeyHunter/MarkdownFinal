@@ -14,4 +14,4 @@ Target Audience:
 * Age: 16 - 80 year olds. The people who are influenced by the media world around them, but they have the capacity to understand what's happenening and learn about the world around them.
 * I would like this information to be neutral so that no matter your cultural heritage, ethnicity, sexual orientation, etc. you can learn from what is being said.
 
-[A relative link to the main page](Index.md)
+[To the main page](Index.md)
