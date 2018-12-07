@@ -55,6 +55,8 @@ That’s sonic branding in action.
 
 The power of music and sound transcends language, culture and all things visual, which makes sonic branding a huge part of the promotional game for many companies. For example, anyone anywhere in the world can hear the simple tune “I’m Lovin’ It” and instantly think of McDonald’s (in fact, Justin Timberlake wrote a track around the original five-note jingle). The process of “distilling a multimillion dollar brand into a few seconds of sound” can be long and challenging, but it pays off–sonic branding signatures can be more recognizable than company logos or spokespeople.
 
+Both sonic branding and audio branding play into a new riseing force in branding, engagement marketing. Compnaies want consumers to feel that they are a part of the brand, and not just experiencing one.
+
 [Engagement marketing](https://en.wikipedia.org/wiki/Engagement_marketing), sometimes called "Guerilla Marketing" "experiential marketing", "event marketing", "on-ground marketing", "live marketing", "participation marketing", or "special events" is a marketing strategy that directly engages consumers and invites and encourages them to participate in the evolution of a brand or a brand experience. Rather than looking at consumers as passive receivers of messages, engagement marketers believe that consumers should be actively involved in the production and co-creation of marketing programs, developing a relationship with the brand.
 
 ### One of the driving forces is information technology
@@ -65,7 +67,7 @@ Information above from [here](https://s3.amazonaws.com/academia.edu.documents/49
 
 ---
 
-Almost every major company in the world uses audio branding and sonic branding. Which means that when you're ar work, your experiencing sounds, while driving with the radio on, or even off, your being affected by sounds, when you're wathcing tv, youtube, netflix, or any other type of media, your also being affected by sounds.
+Almost every major company in the world uses audio branding and sonic branding to engage in engagement branding. Which means that when you're ar work, your experiencing sounds, while driving with the radio on, or even off, your being affected by sounds, when you're wathcing tv, youtube, netflix, or any other type of media, your also being affected by sounds. Whether you notice it or not, our entire lives are influenced by sounds. Even before we are born we are seen with ultrasound. With the ever evolving information technology field, we have the power to shape the world and reach people we might never have been able to. 
 
 Watch these:
 [How music effects your brains](https://www.youtube.com/watch?v=JpUVMpX62nw) (2:31)
