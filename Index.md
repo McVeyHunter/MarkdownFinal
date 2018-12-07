@@ -42,6 +42,7 @@ Thirdly sound affects us cognitively. How well you work is very dependent on the
 The final way sound affects us is behaviourally. We will tend to move away from unpleasant sound if we can and even gravitate towards pleasant sounds. Sound can cause stress us and make us behave negatively. It makes us less sociable, less helpful and less approachable if we’re in a noisy setting.
 
 Information about the 4 types above from [here](https://www.juliantreasure.com/blog/4-ways-sound-affects/)
+
 ---
 
 Now we're starting to get somewhere with how impactful sound actually is on us. It's not only affecting us mentally, but physically as well, with the production of chemicals in our brains and how we respond to the world around us. Through advertisements [like these](https://www.youtube.com/watch?v=HE9nLWFZ6ac) (11:35) all the way to movies [like these](https://www.youtube.com/watch?v=AcpW_cvkEnk) (2:08). Sound is effecting us at all times of our lives and people tend to forget about it sometimes.
