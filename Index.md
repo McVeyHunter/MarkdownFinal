@@ -63,7 +63,7 @@ Both sonic branding and audio branding play into a new rising force in branding,
 
 Nowadays business is increasingly driven by information technology. The infonnation revolution will not mean merely an improvement in speed, as suggested by the original metaphor of the "information superhighway." It will mean a transfonnation in media - from print to voice, from sight to sound. It is Quite conceivable that, within a few years, consumers will be working with considerably smaller-and cheaper- computing devices that will integrate mobile phones, television, voice-operated computer with access to anyone and anything-real or virtual - anywhere in the world. Futurists like Dertouzos (1997) predict that within a few years we willsee products like the "bodynet," a web of integrated devices - functioning as cellphone, computer, television, camera, etc. - that will be confined to an invisible envelope around our bodies. This device-or a similar one - will allow people and companies to connect and to share an experiential universe with one another at any time.
 
-Information above from [here](https://s3.amazonaws.com/academia.edu.documents/49696552/Theme_2__article_2.pdf?AWSAccessKeyId=AKIAIWOWYYGZ2Y53UL3A&Expires=1544226763&Signature=NHcbVn46rae%2FbPw3Bf0kOk8dIZY%3D&response-content-disposition=inline%3B%20filename%3DJournal_of_Marketing_Management_Experien.pdf)
+Information above from [here](http://www.academia.edu/29248867/Journal_of_Marketing_Management_Experiential_Marketing)
 
 ---
 
